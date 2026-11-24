@@ -1,0 +1,57 @@
+- Number of simulations: 200
+- Output directory: 1_geometria_v1.8
+- Launch site: santa_margarida
+- Geometry v1.6, aerodynamics v1.4/CD_Mach_Test_Atlas_v_1.2_SDRAD_cd_mach.csv, motor SRAD/v1.0, recovery v1.0, airbrakes None
+
+Out of Rail Time
+	Mean Value: 0.453 s
+	Standard Deviation: 0.001 s
+
+Out of Rail Velocity
+	Mean Value: 42.223 m/s
+	Standard Deviation: 0.081 m/s
+
+Apogee Time
+	Mean Value: 26.475 s
+	Standard Deviation: 0.063 s
+
+Apogee Altitude
+	Mean Value: 3446.346 m
+	Standard Deviation: 19.189 m
+
+Initial Static Margin
+	Mean Value: 2.363 c
+	Standard Deviation: 0.031 c
+
+Out of Rail Static Margin
+	Mean Value: 2.49 c
+	Standard Deviation: 0.03 c
+
+Final Static Margin
+	Mean Value: 3.382 c
+	Standard Deviation: 0.032 c
+
+Maximum Velocity
+	Mean Value: 296.2 m/s
+	Standard Deviation: 1.14 m/s
+
+Maximum Acceleration
+	Mean Value: 119.311 m/s^2
+	Standard Deviation: 0.448 m/s^2
+
+Maximum Aerodynamic Drag
+	Mean Value: 294.275 N
+	Standard Deviation: 2.407 N
+
+Maximum Aerodynamic Lift
+	Mean Value: 216.387 N
+	Standard Deviation: 31.822 N
+
+Maximum Aerodynamic Spin Moment
+	Mean Value: 0.0 N*m
+	Standard Deviation: 0.0 N*m
+
+Maximum Aerodynamic Bending Moment
+	Mean Value: 4.905 N*m
+	Standard Deviation: 0.133 N*m
+
