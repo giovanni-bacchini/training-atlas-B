@@ -1,0 +1,57 @@
+- Number of simulations: 200
+- Output directory: 2_aero_v1.8
+- Launch site: santa_margarida
+- Geometry v1.8, aerodynamics v1.8_nonozzle/CD_no_nozzle_1.8_cd_mach.csv, motor SRAD/v1.0, recovery v1.0, airbrakes None
+
+Out of Rail Time
+	Mean Value: 0.445 s
+	Standard Deviation: 0.001 s
+
+Out of Rail Velocity
+	Mean Value: 42.985 m/s
+	Standard Deviation: 0.089 m/s
+
+Apogee Time
+	Mean Value: 27.099 s
+	Standard Deviation: 0.055 s
+
+Apogee Altitude
+	Mean Value: 3644.124 m
+	Standard Deviation: 18.129 m
+
+Impact Velocity
+	Mean Value: -5.56 m/s
+	Standard Deviation: 0.056 m/s
+
+Initial Static Margin
+	Mean Value: 2.008 c
+	Standard Deviation: 0.041 c
+
+Out of Rail Static Margin
+	Mean Value: 2.147 c
+	Standard Deviation: 0.041 c
+
+Final Static Margin
+	Mean Value: 3.163 c
+	Standard Deviation: 0.04 c
+
+Maximum Velocity
+	Mean Value: 308.409 m/s
+	Standard Deviation: 1.245 m/s
+
+Maximum Acceleration
+	Mean Value: 124.494 m/s^2
+	Standard Deviation: 0.509 m/s^2
+
+Drogue Parachute Trigger Time
+	Mean Value: 27.209 s
+	Standard Deviation: 0.054 s
+
+Drogue Parachute Fully Inflated Time
+	Mean Value: 28.986 s
+	Standard Deviation: 0.112 s
+
+Drogue Parachute Fully Inflated Velocity
+	Mean Value: 32.978 m/s
+	Standard Deviation: 1.813 m/s
+

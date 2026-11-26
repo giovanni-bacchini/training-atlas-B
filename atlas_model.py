@@ -23,7 +23,7 @@ import pandas as pd
 
 #-------------------------------------------------------------------------------------------------------- VERSIONS
 GEOMETRY = "v1.8"                                   # simulation_inputs/geometry_data/<version>/
-AERODYNAMICS = "v1.4/CD_Mach_Test_Atlas_v_1.2_SDRAD_cd_mach.csv"         # simulation_inputs/aerodynamic_data/rocket_body/<file>
+AERODYNAMICS = "v1.8_nonozzle/CD_no_nozzle_1.8_cd_mach.csv"         # simulation_inputs/aerodynamic_data/rocket_body/<file>
 MOTOR = "SRAD/v1.0"             # simulation_inputs/propulsion_data/<motor>/
 RECOVERY = "v1.0"                                   # simulation_inputs/recovery_data/<version>/
 AIRBRAKES = None                                    # None = no airbrakes, or "v1.0"
