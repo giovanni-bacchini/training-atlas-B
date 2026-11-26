@@ -19,6 +19,10 @@ Apogee Altitude
 	Mean Value: 3446.346 m
 	Standard Deviation: 19.189 m
 
+Impact Velocity
+	Mean Value: -5.687 m/s
+	Standard Deviation: 0.059 m/s
+
 Initial Static Margin
 	Mean Value: 2.363 c
 	Standard Deviation: 0.031 c
@@ -39,19 +43,15 @@ Maximum Acceleration
 	Mean Value: 119.311 m/s^2
 	Standard Deviation: 0.448 m/s^2
 
-Maximum Aerodynamic Drag
-	Mean Value: 294.275 N
-	Standard Deviation: 2.407 N
+Drogue Parachute Trigger Time
+	Mean Value: 26.585 s
+	Standard Deviation: 0.063 s
 
-Maximum Aerodynamic Lift
-	Mean Value: 216.387 N
-	Standard Deviation: 31.822 N
+Drogue Parachute Fully Inflated Time
+	Mean Value: 28.355 s
+	Standard Deviation: 0.121 s
 
-Maximum Aerodynamic Spin Moment
-	Mean Value: 0.0 N*m
-	Standard Deviation: 0.0 N*m
-
-Maximum Aerodynamic Bending Moment
-	Mean Value: 4.905 N*m
-	Standard Deviation: 0.133 N*m
+Drogue Parachute Fully Inflated Velocity
+	Mean Value: 32.907 m/s
+	Standard Deviation: 1.965 m/s
 
